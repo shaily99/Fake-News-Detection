@@ -52,6 +52,9 @@ The following files are included in the directory provided:
 
 ---------------------------
 
+Link to dataset and API responses : 
+https://drive.google.com/open?id=1NfHIjJBN-HjrbatK4EBHVr1DjFO-Otl6
+
 Dataset citation:
 
 @article{Perez-Rosas18Automatic,
