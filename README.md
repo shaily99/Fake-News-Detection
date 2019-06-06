@@ -35,18 +35,18 @@ The following files are included in the directory provided:
 ---
 #!/bin/bash
 
-apt update
-apt install -y build-essential gcc
-apt install -y python3-pip python-pip
-pip install wheel
-pip install setuptools
-pip install nltk pandas sklearn
-pip3 install wheel
-pip3 install setuptools
-pip3 install nltk pandas sklearn
-python -c 'import nltk;nltk.download("wordnet"); nltk.download("stopwords")'
-python3 -c 'import nltk;nltk.download("wordnet"); nltk.download("stopwords")'
-apt install -y jupyter-notebook firefox
+    apt update
+    apt install -y build-essential gcc
+    apt install -y python3-pip python-pip
+    pip install wheel
+    pip install setuptools
+    pip install nltk pandas sklearn
+    pip3 install wheel
+    pip3 install setuptools
+    pip3 install nltk pandas sklearn
+    python -c 'import nltk;nltk.download("wordnet"); nltk.download("stopwords")'
+    python3 -c 'import nltk;nltk.download("wordnet"); nltk.download("stopwords")'
+    apt install -y jupyter-notebook firefox
 ---
 
 
